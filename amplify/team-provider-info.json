@@ -1,0 +1,26 @@
+{
+    "angular": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-my-app-angular-20190905203709-authRole",
+            "UnauthRoleArn": "arn:aws:iam::275171392125:role/amplify-my-app-angular-20190905203709-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::275171392125:role/amplify-my-app-angular-20190905203709-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-my-app-angular-20190905203709-deployment",
+            "UnauthRoleName": "amplify-my-app-angular-20190905203709-unauthRole",
+            "StackName": "amplify-my-app-angular-20190905203709",
+            "StackId": "arn:aws:cloudformation:us-east-1:275171392125:stack/amplify-my-app-angular-20190905203709/9d178fd0-d057-11e9-8dfe-0a6bdb6a0e76"
+        }
+    },
+    "eddieenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-my-app-eddieenv-20190905212819-authRole",
+            "UnauthRoleArn": "arn:aws:iam::275171392125:role/amplify-my-app-eddieenv-20190905212819-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::275171392125:role/amplify-my-app-eddieenv-20190905212819-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-my-app-eddieenv-20190905212819-deployment",
+            "UnauthRoleName": "amplify-my-app-eddieenv-20190905212819-unauthRole",
+            "StackName": "amplify-my-app-eddieenv-20190905212819",
+            "StackId": "arn:aws:cloudformation:us-east-1:275171392125:stack/amplify-my-app-eddieenv-20190905212819/c313f8c0-d05e-11e9-839d-0e94286004bc"
+        }
+    }
+}

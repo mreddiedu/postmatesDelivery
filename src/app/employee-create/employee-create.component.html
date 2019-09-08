@@ -1,0 +1,18 @@
+<div class="container custom-container">
+  <div class="col-md-12">
+    <h3 class="mb-3 text-center">Create Employee</h3>
+
+    <div class="form-group">
+      <input type="text" [(ngModel)]="employeeDetails.name" class="form-control" placeholder="dropoff_address">
+    </div>
+
+    <div class="form-group">
+      <input type="text" [(ngModel)]="employeeDetails.email" class="form-control" placeholder="pickup_address">
+    </div>
+  
+    <div class="form-group">
+      <button class="btn btn-success btn-lg btn-block" (click)="addEmployee()">Create Quote</button>
+    </div>
+
+  </div>
+</div>
